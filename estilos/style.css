@@ -7,6 +7,9 @@ body {
     background-color: rgb(217, 197, 235);
 
 }
+h1 {
+    color: blueviolet;
+}
 
 main { 
     background-color: white;
